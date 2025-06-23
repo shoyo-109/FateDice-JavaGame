@@ -26,5 +26,5 @@ Or will you crawl away like the rest — a forgotten glitch in fate’s code?"_
 Make sure you have **Java 15 or higher** (for text blocks `"""`):
 
 ```bash
-javac FateDice.java
-java FateDice
+javac DiceRoller.java
+java DiceRoller
